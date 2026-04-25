@@ -108,3 +108,6 @@ Translating data into decision-making insights
 ✔ Used real-world dataset
 ✔ Applied DAX for analytics
 ✔ Generated actionable business insights
+
+## ⚠️ Note
+This project uses simulated data for learning purposes.
