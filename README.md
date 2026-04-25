@@ -1,7 +1,7 @@
 # end-to-end-hospitality-data-analysis-powerpivot-dax
 Hospitality analytics project using PowerPivot &amp; DAX. Designed a data model, performed data transformation, and built reports to analyze revenue trends, booking platforms, and property performance.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/end-to-end-hospitality-data-analysis-powerpivot-dax)
+![GitHub repo size](https://img.shields.io/github/repo-size/AnujSingh2399/end-to-end-hospitality-data-analysis-powerpivot-dax)
 
 🏨 Hospitality Analytics using PowerPivot & Power Query
 📌 Project Overview
