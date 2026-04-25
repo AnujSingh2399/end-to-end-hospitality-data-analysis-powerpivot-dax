@@ -5,7 +5,10 @@ Hospitality analytics project using PowerPivot &amp; DAX. Designed a data model,
 
 🏨 Hospitality Analytics using PowerPivot & Power Query
 📌 Project Overview
+
 ![Dashboard](Screenshot/dashboard_1.jpeg)
+![Dashboard](Screenshot/dashboard_2.jpeg)
+
 This project focuses on analyzing hotel booking data using PowerPivot, Power Query, and DAX to generate meaningful business insights. The goal was to recreate analytical reports based on a real-world challenge and answer key business questions.
 
 The dataset includes booking details, property information, revenue, and customer ratings, enabling a complete performance analysis of hotel operations.
